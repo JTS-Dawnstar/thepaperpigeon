@@ -513,14 +513,14 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-color: #001828;
+  background-color: #ffffff;
   background-image: url(../img/pigeonbottom.jpg);
   background-position: center;
   background-repeat: no-repeat;
   /* min-height: 980px; */
   position: relative;
-  padding-bottom: 50px;
-  padding-top: 100px;
+  /* padding-bottom: 50px;
+  padding-top: 100px; */
 }
 
 .contact-item {
