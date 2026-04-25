@@ -277,7 +277,7 @@ blockquote {
 
 @media (max-width: 991px) {
   #testimonials {
-    background-image: url(../img/infinite-loop-02-mobile.jpg);
+    background-image: url(../img/3feedingthepigeon.jpg);
   }
 }
 
@@ -514,7 +514,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(../img/pigeonbottom.jpg);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
